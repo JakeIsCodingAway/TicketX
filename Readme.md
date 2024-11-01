@@ -12,6 +12,8 @@
 
 Aceternity UI - https://ui.aceternity.com/components
 
+Aceternity UI CLI - https://ui.aceternity.com/docs/cli
+
 shadcn/ui - https://ui.shadcn.com/docs
 
 #### Base Underlying Frameworks
